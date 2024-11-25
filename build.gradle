@@ -80,7 +80,7 @@ dependencies {
         transitive = false
     }
     compileOnly "com.github.MilkBowl:VaultAPI:1.7"
-    compileOnly 'me.clip:placeholderapi:2.10.9'
+    compileOnly 'me.clip:placeholderapi:2.11.6'
 
     // shaded dependencies
     implementation 'redis.clients:jedis:5.1.2'
